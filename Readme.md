@@ -6,7 +6,7 @@
 
 # How to create a custom editor with the Auto Height functionality
 
-This example demonstrates how to create a custom in-place editor (`CustomAnyControlEdit`) with the Auto Height functionality. The example implements the `IHeightAdaptable` interface for the editor's `ViewInfo` class, calculates the hight required to display the content of the editor, and returns the height in the `IHeightAdaptable.CalcHeight` method.
+This example demonstrates how to create a custom in-place editor (`CustomAnyControlEdit`) with the Auto Height functionality. The example implements the `IHeightAdaptable` interface for the editor's `ViewInfo` class, calculates the height required to display the content of the editor, and returns the height in the `IHeightAdaptable.CalcHeight` method.
 
 
 ## Files to Review
