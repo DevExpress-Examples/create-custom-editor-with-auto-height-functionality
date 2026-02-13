@@ -18,7 +18,7 @@ This example demonstrates how to create a custom in-place editor (`CustomAnyCont
 * [CustomAnyControlEditRepositoryItem.cs](./CS/TreeListAutoNodeHeight/TreeListAutoNodeHeight/CustomAnyControlEditRepositoryItem.cs)
 * [CustomAnyControlEditViewInfo.cs](./CS/TreeListAutoNodeHeight/TreeListAutoNodeHeight/CustomAnyControlEditViewInfo.cs)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=create-custom-editor-with-auto-height-functionality&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=create-custom-editor-with-auto-height-functionality&~~~was_helpful=no)
 
